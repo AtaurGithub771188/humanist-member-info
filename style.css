@@ -1,7 +1,16 @@
 .firstdiv{
-    background-color: aquamarine;
+    background-color: #8080804a;
+    height: 1000px;
 }
+
 .table{
     margin: auto;
+    margin-top: 50px;
+    text-align: center;
+    background-color: #80ff001f;
+    font-size: 17px;
+
 }
-    
+caption{
+    color: rgb(146, 65, 35);
+}
